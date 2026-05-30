@@ -1,5 +1,5 @@
 import React from 'react'
-import Quiz from './components/quiz/quiz'
+import Quiz from '/vercel/path0/src/App.jsx'
 
 const App = () => {
   return (
