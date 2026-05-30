@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react'
-import './quiz.css'
+import './Quiz.css'
 import { data } from '../../assets/data';
 
 const Quiz = () => {
